@@ -198,10 +198,7 @@ li {
 .card-text {
   display: block;
   align-items: center;
-  padding-top: 32px;
-  padding-bottom: 32px;
-  padding-left: 16px;
-  padding-right: 16px;
+  padding: 32px 0;
 }
 .team-title {
   text-transform: capitalize;
