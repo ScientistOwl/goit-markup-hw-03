@@ -1,13 +1,26 @@
-.bodys {
+body {
   font-family: "Roboto", sans-serif;
   color: #434455;
   background-color: #ffffff;
+}
+.container-nav {
+  display: flex;
+  align-items: center;
+}
+.nav-list {
+  display: flex;
+  align-items: center;
+}
+.contact-info .contact-list {
+  display: flex;
+  align-items: center;
 }
 .ull {
   list-style: none;
 }
 .main-nav {
-  background: #fff;
+  display: flex;
+  align-items: center;
 }
 .logo {
   font-family: "Raleway", sans-serif;
