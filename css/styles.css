@@ -289,7 +289,6 @@ li {
   font-size: 18px;
   line-height: 117%;
   letter-spacing: 0.03em;
-  text-transform: uppercase;
   color: #4d5ae5;
   background: #2e2f42;
   padding: 100px 0;
@@ -300,6 +299,7 @@ li {
   line-height: 117%;
   letter-spacing: 0.03em;
   color: #f4f4fd;
+  text-transform: uppercase;
 }
 .footer-description {
   font-weight: 400;
@@ -318,6 +318,7 @@ li {
   line-height: 117%;
   letter-spacing: 0.03em;
   color: #4d5ae5;
+  text-transform: uppercase;
 }
 .visually-hidden {
   position: absolute;
